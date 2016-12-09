@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="detail">Detail</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--Titles-->
+    <string name="title">Title</string>
+    <string name="thumbnail">Poster Image Thumbnail</string>
+    <string name="plot">Plot Synopsis</string>
+    <string name="rate">Vote Average</string>
+    <string name="date">Release Date</string>
+
+    <!--Network Connection-->
+    <string name="toast_internet_connection_required">An internet connection is required. Please ensure that you have an internet connection then try again.</string>
+
+    <!--Settings-->
+    <string name="pref_sort_by_label">Sort Order</string>
+    <string name="pref_sort_by_key">sort by</string>
+    <string name="pref_sort_by_default">popularity.desc</string>
+
+    <string name="pref_sort_by_popularity_desc_label">Most Popular</string>
+    <string name="pref_sort_by_popularity_desc">popularity.desc</string>
+
+    <string name="pref_sort_by_vote_average_desc_label">Highest Rated</string>
+    <string name="pref_sort_by_vote_average_desc">vote_average.desc</string>
+
+    <!--API KEY-->
+    <string name="api_key">8e1a1a97474fb971e7e283f5f2abd6c8</string>
+</resources>
